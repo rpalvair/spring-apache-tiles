@@ -1,0 +1,18 @@
+.custom-table td,th {
+    padding: 10px !important;
+}
+
+.custom-table th {
+    background-color : #4682B4;
+    color : white;
+    border: 1px solid grey;
+}
+.custom-table td {
+    border: 1px solid grey;
+}
+.blank {
+
+}
+.grey {
+    background-color : #C0C0C0;
+}
