@@ -31,7 +31,7 @@
                 consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
                 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</P>
 </div>
-<div ng-controller="HomeController" style="min-height:250px">
+<div ng-controller="HomeController" style="min-height:520px">
     <table cellpadding="10" class="custom-table">
         <tr>
             <th>Id</th>
